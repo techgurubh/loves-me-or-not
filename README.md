@@ -7,8 +7,8 @@ An interactive, high-fidelity web application based on the classic flower petal 
 - **Dynamic Fate:** Every round is unique. The game generates a random number of petals (between 5 and 15), so the final result is never predictable.
 - **Emoji Feedback:** The flower's center reacts to your progress:
   - 🤔 *Thinking...* (New Game)
-  - 😊 *He Loves Me!*
-  - 😟 *He Loves Me Not...*
+  - 😊 *Loves Me!*
+  - 😟 *Loves Me Not...*
   - 💖/💔 *The Final Verdict*
 
 ## ✨ Features
