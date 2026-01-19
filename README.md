@@ -22,7 +22,7 @@ An interactive, high-fidelity web application based on the classic flower petal 
 - `style.css`: Neon styling, glass effects, and button animations.
 - `script.js`: Particle engine, petal physics, and game logic.
 
-`https://techgurubh.github.io/loves-me-or-not/`
+https://techgurubh.github.io/loves-me-or-not/
 
 ## 📄 License
 This project is open-source. Feel free to fork and customize the neon colors or emoji reactions!
